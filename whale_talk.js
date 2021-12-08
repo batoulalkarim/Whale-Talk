@@ -13,3 +13,4 @@ for (let i = 0; i < input.length; i++) {
         resultArray.push(input[i]);
     }
 };
+console.log(resultArray.join(' ').toUpperCase());

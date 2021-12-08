@@ -9,4 +9,7 @@ for (let i = 0; i < input.length; i++) {
     if (input[i] === 'e') {
         resultArray.push(input[i]);
     }
-}
+    if (input[i] === 'u') {
+        resultArray.push(input[i]);
+    }
+};
